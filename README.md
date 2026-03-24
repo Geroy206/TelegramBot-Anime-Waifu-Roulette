@@ -20,7 +20,12 @@ A simple Telegram bot for picking your next waifu from a massive database of ani
    pip install pytelegrambotapi python-dotenv
 2. Clone the repo.
 3. Create a `.env` file and add your `BOT_TOKEN`.
-4. Launch `python main.py`.
+4. Fill the `data.py` or keep it as is (already contains 100+ characters).
+5. Launch `python main.py`.
+
+## TODO
+- **Change data.py to SQLite database or JSON database**
+- **Add more modes. For example: Random selection by tags.**
 
 ---
 *Note: This project is currently in a "frozen" state as I'm returning to my main development. Feel free to fork and play around!*
