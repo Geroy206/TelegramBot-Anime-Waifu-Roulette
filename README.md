@@ -26,6 +26,7 @@ A simple Telegram bot for picking your next waifu from a massive database of ani
 ## 🏗️ TODO
 - **Change data.py to SQLite database or JSON database**
 - **Add more modes. For example: Random selection by tags.**
+- **Add automatic addition of characters and titles.**
 
 ---
 *Note: This project is currently in a "frozen" state as I'm returning to my main development. Feel free to fork and play around!*
