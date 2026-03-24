@@ -7,8 +7,8 @@ Status: MVP (Minimum Viable Product) reached. The core logic is functional, and 
 ## 🚀 Features
 - **Total Random:** Get a character from a random title.
 - **Selective Random:** Pick a title and get a random character from it.
-- **Huge-Small Database:** Includes titles from *Genshin Impact*, *Touhou*, *Zenless Zone Zero*, *Danganronpa*, *Azur Lane*, and more.
-- **Debug CL interface:** Debug CLI, for implements and test new modes
+- **Initial Database:** Includes titles from *Genshin Impact*, *Touhou*, *Zenless Zone Zero*, *Danganronpa*, *Azur Lane*, and more.
+- **Debug CLI:** for implements and test new modes.
 
 ## 🛠 Tech Stack
 - **Language:** Python 3.x
