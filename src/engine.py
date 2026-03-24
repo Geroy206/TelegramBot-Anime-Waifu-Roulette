@@ -13,9 +13,9 @@ def get_random_character(t_l, g_characters_dict):
     characters = g_characters_dict.get(random_title, [])
     
     # Select a random character from the list
-    return "Тайтл: " + random_title + "\n" + "Персонаж: " + random.choice(characters) if characters else "Error"
+    return "Title: " + random_title + "\n" + "Character: " + random.choice(characters) if characters else "Error"
 
 def get_random_title_character(title, g_characters_dict):
     characters = g_characters_dict.get(title, [])
     
-    return "Тайтл: " + title + "\n" + "Персонаж: " + random.choice(characters) if characters else "Error"
+    return "Title: " + title + "\n" + "Character: " + random.choice(characters) if characters else "Error"
