@@ -394,6 +394,50 @@ girls_characters_dict = {
     "Yeon", "Yoizuki", "York", "Yorktown", "Yorktown II", "Yūachi", "Yūgure", "Yūnagagi", "Yūshio", 
     "Yukikaze", "Yura", "Z1", "Z2", "Z16", "Z18", "Z19", "Z20", "Z21", "Z23", "Z24", "Z25", "Z26", "Z28", 
     "Z35", "Z36", "Z43", "Z46", "Z47", "Zuihou", "Zuikaku"
+],
+    "Hyperdimension Neptunia": [
+    # --- CPUs & Candidates (Main Dimensions) ---
+    "Neptune", "Purple Heart", "Nepgear", "Purple Sister",
+    "Noire", "Black Heart", "Uni", "Black Sister",
+    "Blanc", "White Heart", "Rom", "White Sister", "Ram", "White Sister",
+    "Vert", "Green Heart",
+    "Plutia", "Iris Heart",
+    "Peashy", "Yellow Heart",
+    "Uzume Tennouboshi", "Orange Heart",
+    "Kurome Ankokuboshi",
+    "Rei Ryghts", "Cyan Heart",
+    
+    # --- Gold Third (Megadimension VII) ---
+    "B-Sha", "C-Sha", "S-Sha", "K-Sha",
+    
+    # --- Makers & Key Allies ---
+    "IF", "Compa", "Histoire", "Tiny Histoire", "Croire",
+    "Nisa", "Gust", "RED", "5pb.", "Cave", "Falcom", "MAGES.",
+    "CyberConnect2", "MarvelousAQL", "Tekken", "Broccoli", "Nitroplus",
+    "Tamsoft", "God Eater", "Million Arthur", "Alice",
+    
+    # --- Oracles & NPCs ---
+    "Kei Jinguji", "Mina Nishizawa", "Chika Hakozaki",
+    "Abnes", "Mina", "Linda", "Chian",
+    
+    # --- Spin-off Specific (Sega Hard Girls, Hyperdevotion, etc.) ---
+    "Segami", "Sega Saturn", "Mega Drive", "Game Gear", "Dreamcast",
+    "E-Sha", "Artisan", "Filyn", "Karin", "Lid", "Resta", "Estelle", 
+    "Ein Al", "Poona", "Moru", "Ai Masujima", "Ryuka", "Blossom Aisen",
+    "Tsunemi", "Wyn", "Lady Wac", "Sango", "Generia G", "Vio", "Saori",
+    "Little Rain", "Lee-Fi",
+    
+    # --- Virtual Stars & Ninja Wars ---
+    "You Are", "Me", "Vice", "Licht", "Mauli", "Kizuna AI",
+    "Yuuki", "Miyabi", "Asuka", "Homura", "Yumi",
+    
+    # --- Sisters vs Sisters & Game Maker R-Evolution (2022-2024+) ---
+    "Maho", "Anri", "Grey Sister", "Higurashi", "Shanghai Alice",
+    "Pipi", "Jarga", "Lideo", "Adult Neptune", "Reed",
+    
+    # --- Antagonists & Others ---
+    "Arfoire", "Magical Noirina", "Dengekiko", "Famitsu", 
+    "Yellow Heart (Child)", "Next Purple", "Next Black", "Next White", "Next Green"
 ]
 }
 
