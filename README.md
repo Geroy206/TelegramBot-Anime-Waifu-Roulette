@@ -2,6 +2,8 @@
 
 A simple Telegram bot for picking your next waifu from a massive database of anime and games.
 
+Status: MVP (Minimum Viable Product) reached. The core logic is functional, and the database is populated.
+
 ## 🚀 Features
 - **Total Random:** Get a character from a random title.
 - **Selective Random:** Pick a title and get a random character from it.
